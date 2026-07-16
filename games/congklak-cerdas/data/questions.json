@@ -1,0 +1,392 @@
+[
+  {
+    "id": "cc-001",
+    "category": "Penjumlahan",
+    "question": "Jika sebuah lubang berisi 7 biji lalu ditambah 5 biji, jumlahnya menjadi...",
+    "choices": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "7 + 5 = 12."
+  },
+  {
+    "id": "cc-002",
+    "category": "Perkalian",
+    "question": "Tujuh lubang masing-masing berisi 7 biji. Jumlah seluruh biji pada satu sisi adalah...",
+    "choices": [
+      "42",
+      "49",
+      "56",
+      "63"
+    ],
+    "answer": 1,
+    "explanation": "7 × 7 = 49."
+  },
+  {
+    "id": "cc-003",
+    "category": "Pengurangan",
+    "question": "Dari 18 biji, 7 biji dipindahkan. Sisa biji adalah...",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "18 − 7 = 11."
+  },
+  {
+    "id": "cc-004",
+    "category": "Pembagian",
+    "question": "Sebanyak 42 biji dibagi rata ke 7 lubang. Setiap lubang mendapat...",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "42 ÷ 7 = 6."
+  },
+  {
+    "id": "cc-005",
+    "category": "Pola Bilangan",
+    "question": "Lanjutkan pola 7, 14, 21, 28, ...",
+    "choices": [
+      "30",
+      "32",
+      "35",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "Pola bertambah 7, sehingga berikutnya 35."
+  },
+  {
+    "id": "cc-006",
+    "category": "Perbandingan",
+    "question": "Toko A berisi 24 biji dan Toko B 18 biji. Selisihnya...",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "24 − 18 = 6."
+  },
+  {
+    "id": "cc-007",
+    "category": "Penjumlahan",
+    "question": "Nilai dari 16 + 27 adalah...",
+    "choices": [
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "answer": 2,
+    "explanation": "16 + 27 = 43."
+  },
+  {
+    "id": "cc-008",
+    "category": "Perkalian",
+    "question": "Nilai 8 × 6 adalah...",
+    "choices": [
+      "42",
+      "46",
+      "48",
+      "54"
+    ],
+    "answer": 2,
+    "explanation": "8 × 6 = 48."
+  },
+  {
+    "id": "cc-009",
+    "category": "Pecahan",
+    "question": "Setengah dari 28 biji adalah...",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "28 ÷ 2 = 14."
+  },
+  {
+    "id": "cc-010",
+    "category": "Persentase",
+    "question": "25% dari 40 biji adalah...",
+    "choices": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Seperempat dari 40 adalah 10."
+  },
+  {
+    "id": "cc-011",
+    "category": "Logika",
+    "question": "Jika giliran tambahan diperoleh ketika biji terakhir jatuh di lumbung sendiri, pilihan yang paling menguntungkan adalah lubang dengan jumlah biji yang...",
+    "choices": [
+      "berakhir tepat di lumbung",
+      "selalu paling sedikit",
+      "selalu paling banyak",
+      "berakhir di lumbung lawan"
+    ],
+    "answer": 0,
+    "explanation": "Strategi dasar adalah menghitung agar biji terakhir jatuh di lumbung sendiri."
+  },
+  {
+    "id": "cc-012",
+    "category": "Pengurangan",
+    "question": "Nilai dari 50 − 17 adalah...",
+    "choices": [
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "answer": 2,
+    "explanation": "50 − 17 = 33."
+  },
+  {
+    "id": "cc-013",
+    "category": "Pembagian",
+    "question": "Nilai 63 ÷ 9 adalah...",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "63 ÷ 9 = 7."
+  },
+  {
+    "id": "cc-014",
+    "category": "Pola Bilangan",
+    "question": "Lanjutkan pola 3, 6, 12, 24, ...",
+    "choices": [
+      "30",
+      "36",
+      "42",
+      "48"
+    ],
+    "answer": 3,
+    "explanation": "Setiap bilangan dikali 2."
+  },
+  {
+    "id": "cc-015",
+    "category": "Perkalian",
+    "question": "Jika 5 lubang masing-masing berisi 4 biji, totalnya...",
+    "choices": [
+      "18",
+      "20",
+      "22",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "5 × 4 = 20."
+  },
+  {
+    "id": "cc-016",
+    "category": "Pecahan",
+    "question": "Seperempat dari 36 adalah...",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "36 ÷ 4 = 9."
+  },
+  {
+    "id": "cc-017",
+    "category": "Penjumlahan",
+    "question": "Nilai 125 + 75 adalah...",
+    "choices": [
+      "180",
+      "190",
+      "200",
+      "210"
+    ],
+    "answer": 2,
+    "explanation": "125 + 75 = 200."
+  },
+  {
+    "id": "cc-018",
+    "category": "Perbandingan",
+    "question": "Rasio 14 biji terhadap 7 biji dapat disederhanakan menjadi...",
+    "choices": [
+      "1:2",
+      "2:1",
+      "2:3",
+      "7:1"
+    ],
+    "answer": 1,
+    "explanation": "14:7 sama dengan 2:1."
+  },
+  {
+    "id": "cc-019",
+    "category": "Pengurangan",
+    "question": "Jika lumbung berisi 31 biji lalu mendapat 8, jumlah barunya...",
+    "choices": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "31 + 8 = 39."
+  },
+  {
+    "id": "cc-020",
+    "category": "Pembagian",
+    "question": "48 biji dibagi rata ke 6 lubang. Tiap lubang berisi...",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "48 ÷ 6 = 8."
+  },
+  {
+    "id": "cc-021",
+    "category": "Persentase",
+    "question": "50% dari 70 adalah...",
+    "choices": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": 1,
+    "explanation": "Setengah dari 70 adalah 35."
+  },
+  {
+    "id": "cc-022",
+    "category": "Logika",
+    "question": "Ada 4 lubang berisi 2, 5, 0, dan 7 biji. Jumlah seluruhnya...",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "2 + 5 + 0 + 7 = 14."
+  },
+  {
+    "id": "cc-023",
+    "category": "Pola Bilangan",
+    "question": "Lanjutkan pola 40, 35, 30, 25, ...",
+    "choices": [
+      "15",
+      "18",
+      "20",
+      "22"
+    ],
+    "answer": 2,
+    "explanation": "Pola berkurang 5."
+  },
+  {
+    "id": "cc-024",
+    "category": "Perkalian",
+    "question": "Nilai 12 × 4 adalah...",
+    "choices": [
+      "36",
+      "44",
+      "48",
+      "52"
+    ],
+    "answer": 2,
+    "explanation": "12 × 4 = 48."
+  },
+  {
+    "id": "cc-025",
+    "category": "Pengurangan",
+    "question": "Nilai 100 − 46 adalah...",
+    "choices": [
+      "52",
+      "53",
+      "54",
+      "56"
+    ],
+    "answer": 2,
+    "explanation": "100 − 46 = 54."
+  },
+  {
+    "id": "cc-026",
+    "category": "Pecahan",
+    "question": "Tiga perempat dari 20 adalah...",
+    "choices": [
+      "10",
+      "12",
+      "15",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "3/4 × 20 = 15."
+  },
+  {
+    "id": "cc-027",
+    "category": "Penjumlahan",
+    "question": "Nilai 38 + 29 adalah...",
+    "choices": [
+      "65",
+      "66",
+      "67",
+      "68"
+    ],
+    "answer": 2,
+    "explanation": "38 + 29 = 67."
+  },
+  {
+    "id": "cc-028",
+    "category": "Logika",
+    "question": "Jika satu putaran menyebar 9 biji, berapa lubang pertama yang menerima satu biji?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Setiap langkah menaruh satu biji, jadi 9 posisi menerima biji."
+  },
+  {
+    "id": "cc-029",
+    "category": "Perbandingan",
+    "question": "Mana yang lebih besar?",
+    "choices": [
+      "3 × 8",
+      "4 × 5",
+      "2 × 11",
+      "7 + 14"
+    ],
+    "answer": 0,
+    "explanation": "3 × 8 = 24, lebih besar dari 20, 22, dan 21."
+  },
+  {
+    "id": "cc-030",
+    "category": "Pembagian",
+    "question": "Nilai 81 ÷ 9 adalah...",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "81 ÷ 9 = 9."
+  }
+]

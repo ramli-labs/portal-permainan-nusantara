@@ -1,0 +1,13 @@
+{
+  "name": "portal-permainan-nusantara-ifp",
+  "version": "2.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node tests/smoke.mjs && node tests/congklak-engine.mjs && node tests/game-dom-contracts.mjs && node tests/final-hardening.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id":"gobak-sodor",
+    "title":"Gobak Sodor Nusantara",
+    "description":"Strategi, gotong royong, dan enam soal adaptif dalam perjalanan pergi-pulang.",
+    "icon":"🏃",
+    "subjects":["Campuran","Budaya"],
+    "status":"available",
+    "players":"1–2 pemain",
+    "offline":true
+  },
+  {
+    "id":"jelajah-nusantara",
+    "title":"Jelajah Nusantara",
+    "description":"Ekspedisi 15 soal melalui lima kawasan Indonesia dengan rapor kategori.",
+    "icon":"🧭",
+    "subjects":["IPS","Budaya","Geografi"],
+    "status":"available",
+    "players":"1–2 pemain",
+    "offline":true
+  },
+  {
+    "id":"congklak-cerdas",
+    "title":"Congklak Cerdas",
+    "description":"Aturan congklak digital, strategi lumbung, AI, dan tantangan matematika.",
+    "icon":"🫘",
+    "subjects":["Matematika","Strategi","Budaya"],
+    "status":"available",
+    "players":"1–2 pemain",
+    "offline":true
+  },
+  {
+    "id":"engklek-pintar",
+    "title":"Engklek Pintar",
+    "description":"Tap jalur engklek, hindari gacuk, dan jawab soal campuran.",
+    "icon":"🟨",
+    "subjects":["Campuran","Koordinasi","Budaya"],
+    "status":"available",
+    "players":"1–2 pemain",
+    "offline":true
+  },
+  {
+    "id":"egrang-nusantara",
+    "title":"Egrang Nusantara",
+    "description":"Adaptasi keseimbangan dan ritme egrang dengan lintasan 100 meter.",
+    "icon":"🎋",
+    "subjects":["PJOK","IPA","Budaya"],
+    "status":"available",
+    "players":"1–2 pemain",
+    "offline":true
+  }
+]
